@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  cassandra-web:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2021-08-25T11:00:24.392138+08:00"
+    description: A Helm chart for Kubernetes
+    digest: 0e356ebb0074f7281869ea2ed88d967782c05ad93c2af40e3a071330c0cb8e2d
+    name: cassandra-web
+    urls:
+    - https://orzhaha.github.io/charts/orzhaha/cassandra-web-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-08-25T11:00:24.391501+08:00"
